@@ -1,5 +1,6 @@
-/*package com.themyra.validacao.themyra1.service;
+package com.themyra.validacao.themyra1.service;
 
+import com.themyra.validacao.themyra1.model.InfoWhois;
 import org.apache.commons.net.whois.WhoisClient;
 import org.springframework.stereotype.Service;
 
@@ -87,4 +88,3 @@ public class InfoWhoisService {
     }
 
 }
-*/
