@@ -1,7 +1,7 @@
-package com.example.autenticacao.service;
+package com.themyra.validacao.themyra1.service;
 
-import com.example.autenticacao.model.Usuario;
-import com.example.autenticacao.repository.UsuarioRepository;
+import com.themyra.validacao.themyra1.model.Usuario;
+import com.themyra.validacao.themyra1.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.*;
 import org.springframework.stereotype.Service;
