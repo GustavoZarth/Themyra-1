@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Themyra1Application {
+public class ThemyraApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Themyra1Application.class, args);
+		SpringApplication.run(ThemyraApp.class, args);
 	}
 
 }
